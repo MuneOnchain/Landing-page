@@ -98,3 +98,34 @@ a{
     color: #f9faf8;
 }
 
+.four{
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+}
+
+.sides{
+    width: 165px;
+    height: 165px;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: #3882f6;
+    
+}
+
+.information{
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold;
+    color: #1f2937;
+    padding: 50px;
+}
+
+
+.box p{
+    text-align: center;
+    font-size: 16px;
+    color: #6b7280;
+
+}
