@@ -72,5 +72,15 @@ a{
     border-radius: 4px;
     padding: 5px 25px;
     border: none;
-    cursor:grab;
+    cursor:pointer;
+}
+
+.image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #6b7280;
+    height: 250px;px;
+    width: 500px;
+    color: #f9faf8;
 }
