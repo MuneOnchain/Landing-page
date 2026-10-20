@@ -158,3 +158,40 @@ blockquote{
     color: #1f2937;
     text-align: right;
 }
+
+.action-page{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #3882f6;
+    border-radius: 10px;
+    max-width: 1024px;
+    margin: 100px auto;
+    padding: 50px 120px;
+
+}
+
+.call{
+    color: #f9faf8;
+}
+
+.call div{
+    color: #e5e7eb;
+}
+
+.sign-button{
+    font-size: 16px;
+    border-width: 3px;
+    background-color: #3882f6;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: #f9faf8;
+    color: #e5e7eb;
+    cursor: pointer;
+    padding: 8px 25px;
+}
+
+.call h2{
+    margin: 0%;
+
+}
